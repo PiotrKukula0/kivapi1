@@ -1,0 +1,5 @@
+/vendor/
+/.idea/
+/BuildResults/
+node_modules
+/Tmp/

@@ -3,3 +3,4 @@
 /BuildResults/
 node_modules
 /Tmp/
+/.env
